@@ -37,7 +37,7 @@ body {
     margin-top: 20px;
     margin-left: 150px;
     margin-right: 250px;
-    background: rgb(230, 225, 225);
+    background: white;
     width: 50%;
 }
 
@@ -46,9 +46,19 @@ body {
     padding: 30px;
     margin-top: 20px;
     margin-left: 150px;
-    margin-right: 150px;
+    
     background: white;
-    width: 90%;
+    width: 100%;
+}
+
+.dbody{
+  display: Inline-block;
+  padding: 30px;
+  margin-top: 20px;
+  margin-left: 100px;
+  margin-right: 100px;
+  background: white;
+  width: 100%;
 }
 
 #image {
