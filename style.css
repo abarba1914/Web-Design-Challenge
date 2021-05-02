@@ -26,11 +26,42 @@ body {
     display: inline-block;
     padding: 20px;
     margin-top: 20px;
-    margin-right: 300px;
     margin-left: 300px;
     background: white;
+    width: 80%;
 }
 
-.img {
-    float: right;
+.smbody{
+    display: inline-block;
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: 150px;
+    margin-right: 250px;
+    background: rgb(230, 225, 225);
+    width: 50%;
+}
+
+.cbody{
+    display: Inline-block;
+    padding: 30px;
+    margin-top: 20px;
+    margin-left: 150px;
+    margin-right: 150px;
+    background: white;
+    width: 90%;
+}
+
+#image {
+    width: 200px;
+    height: 200px;
+    float:left;
+  }
+
+#inImage{
+  width: 700px;
+  heigh: 350px;
+}
+
+#h4{
+    color:rgb(37, 199, 185)
 }
